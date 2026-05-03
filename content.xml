@@ -1,0 +1,1451 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>neo</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260502212036QKBJ5A</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260502212036X9CY9W</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>AIRE NUEVO, VIDA NUEVA</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>GLORIA CAÑETE ALCÁNTARA</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>neo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1777747838835</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mookef3b-02893li9u</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>INICIO</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>INICIO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>INICIO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>INICIO</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mookef3b-02893li9u</odePageId>
+      <odeBlockId>block-1777718446209-dmzp8houl</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mookef3b-02893li9u</odePageId>
+          <odeBlockId>block-1777718446209-dmzp8houl</odeBlockId>
+          <odeIdeviceId>idevice-1777718446206-7jn68yhzc</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><br /></p>
+<p><img src="{{context_path}}/content/resources/V.jfif" width="286" height="176" alt="" /></p>
+<p style="text-align: justify;">Fuente de la imagen: <a href="https://www.elclima-enelmundo.com/2025/04/como-llevar-una-vida-saludable-y.html" title="">https://www.elclima-enelmundo.com/2025/04/como-llevar-una-vida-saludable-y.html</a></p>
+<p><em><strong>AIRE NUEVO, VIDA NUEVA </strong></em></p>
+<p style="text-align: justify;">¿Te has parado a pensar cómo influye el aire que respiras en tu salud?</p>
+<p style="text-align: justify;">En este proyecto te convertirás en un/a investigador/a capaz de analizar tu entorno y proponer soluciones reales para mejorar la calidad del aire.</p>
+<p style="text-align: justify;">Prepárate para descubrir, investigar y crear.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777718446206-7jn68yhzc","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><br /></p>\n<p><img src=\"{{context_path}}/content/resources/V.jfif\" width=\"286\" height=\"176\" alt=\"\" /></p>\n<p style=\"text-align: justify;\">Fuente de la imagen: <a href=\"https://www.elclima-enelmundo.com/2025/04/como-llevar-una-vida-saludable-y.html\" title=\"\">https://www.elclima-enelmundo.com/2025/04/como-llevar-una-vida-saludable-y.html</a></p>\n<p><em><strong>AIRE NUEVO, VIDA NUEVA </strong></em></p>\n<p style=\"text-align: justify;\">¿Te has parado a pensar cómo influye el aire que respiras en tu salud?</p>\n<p style=\"text-align: justify;\">En este proyecto te convertirás en un/a investigador/a capaz de analizar tu entorno y proponer soluciones reales para mejorar la calidad del aire.</p>\n<p style=\"text-align: justify;\">Prepárate para descubrir, investigar y crear.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mookef3j-i6d6hyfol</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>PRESENTACIÓN DEL PROYECTO</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PRESENTACIÓN DEL PROYECTO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PRESENTACIÓN DEL PROYECTO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mookef3j-i6d6hyfol</odePageId>
+      <odeBlockId>block-1777721009410-ms3csgtv1</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mookef3j-i6d6hyfol</odePageId>
+          <odeBlockId>block-1777721009410-ms3csgtv1</odeBlockId>
+          <odeIdeviceId>idevice-1777721009406-f9eexxuvp</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>TU MISIÓN:</strong></p>
+<p style="text-align: justify;">Vas a trabajar como un/a experto/a en salud ambiental.</p>
+<p style="text-align: justify;">Tu objetivo será investigar cómo afecta la calidad del aire a las personas y diseñar una propuesta para mejorarla.</p>
+<p>👥 Trabajarás en equipo<br />🔍 Investigarás información real<br />🎯 Crearás un producto final</p>
+<p>Al final del proyecto, presentarás tu propuesta.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777721009406-f9eexxuvp","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>TU MISIÓN:</strong></p>\n<p style=\"text-align: justify;\">Vas a trabajar como un/a experto/a en salud ambiental.</p>\n<p style=\"text-align: justify;\">Tu objetivo será investigar cómo afecta la calidad del aire a las personas y diseñar una propuesta para mejorarla.</p>\n<p>👥 Trabajarás en equipo<br />🔍 Investigarás información real<br />🎯 Crearás un producto final</p>\n<p>Al final del proyecto, presentarás tu propuesta.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mookef3o-8ingal4u1</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>PROTECCIÓN DE DATOS</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PROTECCIÓN DE DATOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PROTECCIÓN DE DATOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mookef3o-8ingal4u1</odePageId>
+      <odeBlockId>block-1777718596671-6jkpo48z9</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mookef3o-8ingal4u1</odePageId>
+          <odeBlockId>block-1777718596671-6jkpo48z9</odeBlockId>
+          <odeIdeviceId>idevice-1777718596668-w8tu6k7i7</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>🔐 <strong>NORMAS IMPORTANTES</strong></p>
+<p>Para trabajar de forma segura:</p>
+<p>✅ No compartas datos personales (nombre completo, dirección, teléfono)<br />✅ Usa imágenes libres o propias<br />✅ Respeta a tus compañeros/as<br />✅ No publiques contenido sin permiso</p>
+<p>¡¡Recuerda: Internet es público!!</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777718596668-w8tu6k7i7","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>🔐 <strong>NORMAS IMPORTANTES</strong></p>\n<p>Para trabajar de forma segura:</p>\n<p>✅ No compartas datos personales (nombre completo, dirección, teléfono)<br />✅ Usa imágenes libres o propias<br />✅ Respeta a tus compañeros/as<br />✅ No publiques contenido sin permiso</p>\n<p>¡¡Recuerda: Internet es público!!</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mookef3r-65ruuzu7w</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>PRODUCTO FINAL</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PRODUCTO FINAL</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PRODUCTO FINAL</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mookef3r-65ruuzu7w</odePageId>
+      <odeBlockId>block-1777718780233-m95k3p2do</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mookef3r-65ruuzu7w</odePageId>
+          <odeBlockId>block-1777718780233-m95k3p2do</odeBlockId>
+          <odeIdeviceId>idevice-1777718780230-mimz2l3hc</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>¿QUÉ VAS A CREAR?</strong></p>
+<p>Un proyecto en el que analices la calidad del aire y propongas mejoras.</p>
+<p><strong>PASOS:</strong></p>
+<p>1. Investigar información<br />2. Analizar tu entorno<br />3. Proponer soluciones<br />4. Crear una presentación final</p>
+<p><strong>FORMATO:</strong><br />- Presentación digital (Genially, Canva, PowerPoint)</p>
+<p>👀 <strong>EJEMPLO: </strong></p>
+<p> <img src="{{context_path}}/content/resources/ChatGPT Image 2 may 2026, 19_16_54.png" width="1366" height="911" alt="" /></p>
+<p>Autor diseño: ChatGPT (Open AI)</p>
+<p>Tipo: Imagen generada por IA</p>
+<p>Licencia: Uso educativo</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777718780230-mimz2l3hc","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>¿QUÉ VAS A CREAR?</strong></p>\n<p>Un proyecto en el que analices la calidad del aire y propongas mejoras.</p>\n<p><strong>PASOS:</strong></p>\n<p>1. Investigar información<br />2. Analizar tu entorno<br />3. Proponer soluciones<br />4. Crear una presentación final</p>\n<p><strong>FORMATO:</strong><br />- Presentación digital (Genially, Canva, PowerPoint)</p>\n<p>👀 <strong>EJEMPLO: </strong></p>\n<p> <img src=\"{{context_path}}/content/resources/ChatGPT Image 2 may 2026, 19_16_54.png\" width=\"1366\" height=\"911\" alt=\"\" /></p>\n<p>Autor diseño: ChatGPT (Open AI)</p>\n<p>Tipo: Imagen generada por IA</p>\n<p>Licencia: Uso educativo</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mookef3t-tw3ny49k5</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>ACTIVIDADES</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>ACTIVIDADES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>ACTIVIDADES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mookef3t-tw3ny49k5</odePageId>
+      <odeBlockId>block-1777719069322-5n1mhtivj</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mookef3t-tw3ny49k5</odePageId>
+          <odeBlockId>block-1777719069322-5n1mhtivj</odeBlockId>
+          <odeIdeviceId>idevice-1777719069320-8zan4dm6w</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Organización de las sesiones</strong><br />Este proyecto se desarrollará a lo largo de seis sesiones en las que el alumnado irá avanzando progresivamente en la comprensión del contenido y en la elaboración del producto final.</p>
+<p><strong>Metodología</strong><br />Durante las sesiones se trabajará mediante:</p>
+<ul>
+<li>Aprendizaje cooperativo</li>
+<li>Uso de herramientas digitales</li>
+<li>Actividades prácticas</li>
+<li>Reflexión y pensamiento crítico</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777719069320-8zan4dm6w","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Organización de las sesiones</strong><br />Este proyecto se desarrollará a lo largo de seis sesiones en las que el alumnado irá avanzando progresivamente en la comprensión del contenido y en la elaboración del producto final.</p>\n<p><strong>Metodología</strong><br />Durante las sesiones se trabajará mediante:</p>\n<ul>\n<li>Aprendizaje cooperativo</li>\n<li>Uso de herramientas digitales</li>\n<li>Actividades prácticas</li>\n<li>Reflexión y pensamiento crítico</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777743162012-pfkmc33t9</odePageId>
+  <odeParentPageId>page-mookef3t-tw3ny49k5</odeParentPageId>
+  <pageName>Actividad 1. ¿Qué respiramos?</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad 1. ¿Qué respiramos?</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777743162012-pfkmc33t9</odePageId>
+      <odeBlockId>block-1777743171131-hf9khcotu</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777743162012-pfkmc33t9</odePageId>
+          <odeBlockId>block-1777743171131-hf9khcotu</odeBlockId>
+          <odeIdeviceId>idevice-1777743171126-5060eg8b8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Descripción: Comenzaremos explorando cómo funciona nuestro aparato respiratorio y por qué el aire que respiramos influye directamente en nuestra salud. A través de un vídeo explicativo y una actividad colaborativa, identificaremos las partes principales del aparato respiratorio y su función.</p>
+<p style="text-align: justify;">Tarea del alumnado: Visiona el vídeo propuesto y elabora, en parejas, un esquema visual del aparato respiratorio indicando sus partes y funciones principales.</p>
+<p style="text-align: justify;">Producto de la actividad: Esquema del aparato respiratorio.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777743171126-5060eg8b8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Descripción: Comenzaremos explorando cómo funciona nuestro aparato respiratorio y por qué el aire que respiramos influye directamente en nuestra salud. A través de un vídeo explicativo y una actividad colaborativa, identificaremos las partes principales del aparato respiratorio y su función.</p>\n<p style=\"text-align: justify;\">Tarea del alumnado: Visiona el vídeo propuesto y elabora, en parejas, un esquema visual del aparato respiratorio indicando sus partes y funciones principales.</p>\n<p style=\"text-align: justify;\">Producto de la actividad: Esquema del aparato respiratorio.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777743264332-mvu4v6y7r</odePageId>
+  <odeParentPageId>page-mookef3t-tw3ny49k5</odeParentPageId>
+  <pageName>Actividad 2. La contaminación y sus efectos</pageName>
+  <odeNavStructureOrder>11</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad 2. La contaminación y sus efectos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777743264332-mvu4v6y7r</odePageId>
+      <odeBlockId>block-1777743266860-jb94bdkpo</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777743264332-mvu4v6y7r</odePageId>
+          <odeBlockId>block-1777743266860-jb94bdkpo</odeBlockId>
+          <odeIdeviceId>idevice-1777743266859-7qcbxikry</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Descripción: Analizaremos cómo la contaminación atmosférica afecta a nuestro organismo y al medio ambiente. El alumnado interpretará información real y debatirá sobre sus consecuencias para la salud.</p>
+<p>Tarea del alumnado: Lee las noticias y recursos proporcionados sobre contaminación atmosférica. Después, participa en un debate en grupo y elabora un mapa mental digital con sus principales efectos.</p>
+<p>Producto: Mapa mental digital sobre efectos de la contaminación.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777743266859-7qcbxikry","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Descripción: Analizaremos cómo la contaminación atmosférica afecta a nuestro organismo y al medio ambiente. El alumnado interpretará información real y debatirá sobre sus consecuencias para la salud.</p>\n<p>Tarea del alumnado: Lee las noticias y recursos proporcionados sobre contaminación atmosférica. Después, participa en un debate en grupo y elabora un mapa mental digital con sus principales efectos.</p>\n<p>Producto: Mapa mental digital sobre efectos de la contaminación.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777743367923-zu6pc3lcx</odePageId>
+  <odeParentPageId>page-mookef3t-tw3ny49k5</odeParentPageId>
+  <pageName>Actividad 3. Investigamos nuestro entorno</pageName>
+  <odeNavStructureOrder>12</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad 3. Investigamos nuestro entorno</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777743367923-zu6pc3lcx</odePageId>
+      <odeBlockId>block-1777743370033-v7obol254</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777743367923-zu6pc3lcx</odePageId>
+          <odeBlockId>block-1777743370033-v7obol254</odeBlockId>
+          <odeIdeviceId>idevice-1777743370032-uuwifoaj5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Descripción: El alumnado observará y analizará su entorno cercano para detectar posibles focos de contaminación o elementos que dificulten un estilo de vida saludable.</p>
+<p style="text-align: justify;">Tarea del alumnado: Realiza una observación guiada del entorno escolar o barrio utilizando una plantilla de registro. Identifica zonas con tráfico, contaminación, ruido o escasez de espacios verdes.</p>
+<p style="text-align: justify;">Producto: Informe de observación del entorno.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777743370032-uuwifoaj5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Descripción: El alumnado observará y analizará su entorno cercano para detectar posibles focos de contaminación o elementos que dificulten un estilo de vida saludable.</p>\n<p style=\"text-align: justify;\">Tarea del alumnado: Realiza una observación guiada del entorno escolar o barrio utilizando una plantilla de registro. Identifica zonas con tráfico, contaminación, ruido o escasez de espacios verdes.</p>\n<p style=\"text-align: justify;\">Producto: Informe de observación del entorno.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777743466182-9zok5u5hx</odePageId>
+  <odeParentPageId>page-mookef3t-tw3ny49k5</odeParentPageId>
+  <pageName>Actividad 4. Proponemos soluciones</pageName>
+  <odeNavStructureOrder>13</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad 4. Proponemos soluciones</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777743466182-9zok5u5hx</odePageId>
+      <odeBlockId>block-1777743467941-0pqzr09ti</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777743466182-9zok5u5hx</odePageId>
+          <odeBlockId>block-1777743467941-0pqzr09ti</odeBlockId>
+          <odeIdeviceId>idevice-1777743467940-4kltej5f5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Descripción: Tras detectar problemas ambientales en su entorno, el alumnado investigará posibles soluciones sostenibles y saludables para mejorar la calidad de vida en el barrio.</p>
+<p>Tarea del alumnado: Investiga propuestas urbanísticas sostenibles y selecciona, en grupo, aquellas que podrían aplicarse en vuestro vecindario saludable.</p>
+<p>Producto: Listado razonado de propuestas de mejora.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777743467940-4kltej5f5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Descripción: Tras detectar problemas ambientales en su entorno, el alumnado investigará posibles soluciones sostenibles y saludables para mejorar la calidad de vida en el barrio.</p>\n<p>Tarea del alumnado: Investiga propuestas urbanísticas sostenibles y selecciona, en grupo, aquellas que podrían aplicarse en vuestro vecindario saludable.</p>\n<p>Producto: Listado razonado de propuestas de mejora.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777743576898-ssih6e11i</odePageId>
+  <odeParentPageId>page-mookef3t-tw3ny49k5</odeParentPageId>
+  <pageName>Actividad 5. Diseñamos el vecindario saludable</pageName>
+  <odeNavStructureOrder>14</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad 5. Diseñamos el vecindario saludable</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777743576898-ssih6e11i</odePageId>
+      <odeBlockId>block-1777743578877-u2osu60l0</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777743576898-ssih6e11i</odePageId>
+          <odeBlockId>block-1777743578877-u2osu60l0</odeBlockId>
+          <odeIdeviceId>idevice-1777743578876-s50e04xj4</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Descripción: El alumnado aplicará los conocimientos adquiridos para diseñar un vecindario saludable, sostenible y respetuoso con el medio ambiente.</p>
+<p style="text-align: justify;">Tarea del alumnado: Diseña en equipo un plano o maqueta digital de un vecindario saludable incorporando zonas verdes, espacios peatonales, carriles bici y medidas de reducción de contaminación.</p>
+<p style="text-align: justify;">Producto: Diseño del vecindario saludable.</p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777743578876-s50e04xj4","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Descripción: El alumnado aplicará los conocimientos adquiridos para diseñar un vecindario saludable, sostenible y respetuoso con el medio ambiente.</p>\n<p style=\"text-align: justify;\">Tarea del alumnado: Diseña en equipo un plano o maqueta digital de un vecindario saludable incorporando zonas verdes, espacios peatonales, carriles bici y medidas de reducción de contaminación.</p>\n<p style=\"text-align: justify;\">Producto: Diseño del vecindario saludable.</p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777743983946-bkmvr216u</odePageId>
+  <odeParentPageId>page-mookef3t-tw3ny49k5</odeParentPageId>
+  <pageName>Actividad 6. Presentamos y evaluamos</pageName>
+  <odeNavStructureOrder>15</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad 6. Presentamos y evaluamos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777743983946-bkmvr216u</odePageId>
+      <odeBlockId>block-1777743987135-j3ybeg8ra</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777743983946-bkmvr216u</odePageId>
+          <odeBlockId>block-1777743987135-j3ybeg8ra</odeBlockId>
+          <odeIdeviceId>idevice-1777743987131-2eqjusyby</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Descripción: Cada grupo presentará su propuesta final al resto de la clase justificando las decisiones adoptadas y reflexionando sobre el proceso de aprendizaje.</p>
+<p>Tarea del alumnado: Expón oralmente el diseño del vecindario saludable y participa en la autoevaluación y coevaluación del trabajo realizado.</p>
+<p>Producto: Presentación oral + autoevaluación/coevaluación.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777743987131-2eqjusyby","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Descripción: Cada grupo presentará su propuesta final al resto de la clase justificando las decisiones adoptadas y reflexionando sobre el proceso de aprendizaje.</p>\n<p>Tarea del alumnado: Expón oralmente el diseño del vecindario saludable y participa en la autoevaluación y coevaluación del trabajo realizado.</p>\n<p>Producto: Presentación oral + autoevaluación/coevaluación.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mookef3u-8ocmhjz19</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>LÍNEA TEMPORAL</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>LÍNEA TEMPORAL</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>LÍNEA TEMPORAL</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mookef3u-8ocmhjz19</odePageId>
+      <odeBlockId>block-1777721095232-ehs98fu97</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mookef3u-8ocmhjz19</odePageId>
+          <odeBlockId>block-1777721095232-ehs98fu97</odeBlockId>
+          <odeIdeviceId>idevice-1777721095230-s2ktnbrhr</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>🕒 <strong>Línea temporal del proyecto</strong></p>
+<p>Sesión 1 → Introducción y conocimientos previos</p>
+<p>Sesión 2 → Aparato respiratorio</p>
+<p>Sesión 3 → Contaminación y salud</p>
+<p>Sesión 4 → Diseño del vecindario saludable</p>
+<p>Sesión 5 → Elaboración del producto final</p>
+<p>Sesión 6 → Presentación y evaluación</p>
+<p><a href="https://www.canva.com/design/DAHHS8SmyZ0/5sVmJ6WNGVjJmm1Laj6hKw/edit" title="">https://www.canva.com/design/DAHHS8SmyZ0/5sVmJ6WNGVjJmm1Laj6hKw/edit</a></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777721095230-s2ktnbrhr","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>🕒 <strong>Línea temporal del proyecto</strong></p>\n<p>Sesión 1 → Introducción y conocimientos previos</p>\n<p>Sesión 2 → Aparato respiratorio</p>\n<p>Sesión 3 → Contaminación y salud</p>\n<p>Sesión 4 → Diseño del vecindario saludable</p>\n<p>Sesión 5 → Elaboración del producto final</p>\n<p>Sesión 6 → Presentación y evaluación</p>\n<p><a href=\"https://www.canva.com/design/DAHHS8SmyZ0/5sVmJ6WNGVjJmm1Laj6hKw/edit\" title=\"\">https://www.canva.com/design/DAHHS8SmyZ0/5sVmJ6WNGVjJmm1Laj6hKw/edit</a></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mookef3w-ot9o6689i</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>RECURSOS Y CURACIÓN</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>RECURSOS Y CURACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>RECURSOS Y CURACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mookef3w-ot9o6689i</odePageId>
+      <odeBlockId>block-1777721137563-fxwwy1mln</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mookef3w-ot9o6689i</odePageId>
+          <odeBlockId>block-1777721137563-fxwwy1mln</odeBlockId>
+          <odeIdeviceId>idevice-1777721137561-e6ggx6lp0</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Recursos y curación de contenidos</strong></p>
+<p>Para facilitar el aprendizaje se han seleccionado recursos digitales organizados para alumnado y profesorado.</p>
+<p><strong>Recursos para alumnado:</strong><br />Padlet<br /><a href="https://padlet.com/gcanalc352/vecindario-saludable-nymhfj5mskl6qglx" title="">https://padlet.com/gcanalc352/vecindario-saludable-nymhfj5mskl6qglx</a></p>
+<p><strong>Recursos para profesorado:</strong><br />Symbaloo<br /><a href="https://gloria.symbaloo.com/home/mix/13ePH271C4" title="">https://gloria.symbaloo.com/home/mix/13ePH271C4</a></p>
+<p>Estos materiales permiten ampliar información, investigar y desarrollar el proyecto.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777721137561-e6ggx6lp0","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Recursos y curación de contenidos</strong></p>\n<p>Para facilitar el aprendizaje se han seleccionado recursos digitales organizados para alumnado y profesorado.</p>\n<p><strong>Recursos para alumnado:</strong><br />Padlet<br /><a href=\"https://padlet.com/gcanalc352/vecindario-saludable-nymhfj5mskl6qglx\" title=\"\">https://padlet.com/gcanalc352/vecindario-saludable-nymhfj5mskl6qglx</a></p>\n<p><strong>Recursos para profesorado:</strong><br />Symbaloo<br /><a href=\"https://gloria.symbaloo.com/home/mix/13ePH271C4\" title=\"\">https://gloria.symbaloo.com/home/mix/13ePH271C4</a></p>\n<p>Estos materiales permiten ampliar información, investigar y desarrollar el proyecto.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mookef3y-kspg4p2x4</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>EVALUACIÓN</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>EVALUACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>EVALUACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mookef3y-kspg4p2x4</odePageId>
+      <odeBlockId>block-1777719370097-jcj9y7hbe</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mookef3y-kspg4p2x4</odePageId>
+          <odeBlockId>block-1777719370097-jcj9y7hbe</odeBlockId>
+          <odeIdeviceId>idevice-1777719370095-ke337o8ch</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Evaluación del proyecto</strong><br />La evaluación de este proyecto tendrá en cuenta tanto el proceso de aprendizaje como el producto final elaborado por el alumnado.</p>
+<p> <br /><strong>¿Qué se evaluará?</strong><br />-La comprensión del funcionamiento del aparato respiratorio<br />-La relación entre contaminación y salud<br />-La calidad del diseño del vecindario saludable<br />-El uso de herramientas digitales<br />-El trabajo en equipo<br />-La presentación final del proyecto<br /> <br /><strong>Instrumentos de evaluación</strong><br />Para evaluar el aprendizaje se utilizarán diferentes instrumentos como:</p>
+<ul>
+<li>Rúbricas</li>
+<li>Listas de cotejo</li>
+<li>Observación directa</li>
+<li>Dianas de evaluación</li>
+</ul>
+<p>Puedes consultar todos los instrumentos aquí:</p>
+<p><a href="https://docs.google.com/document/d/1tKBC_Z8bL2WQFj6WnNnFgLV8Tj1-JkS_S6gSw6xwXjc/edit?usp=sharing" title="">https://docs.google.com/document/d/1tKBC_Z8bL2WQFj6WnNnFgLV8Tj1-JkS_S6gSw6xwXjc/edit?usp=sharing</a></p>
+<p><a href="https://docs.google.com/document/d/1a8OXwM9Q9rOJIxAd_KyhqpABffagRVKfhDf42hyS-pw/edit?usp=drive_link" title="">https://docs.google.com/document/d/1a8OXwM9Q9rOJIxAd_KyhqpABffagRVKfhDf42hyS-pw/edit?usp=drive_link</a></p>
+<p><strong>Evaluación formativa</strong><br />A lo largo del proyecto se proporcionará retroalimentación continua para ayudar al alumnado a mejorar su aprendizaje.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777719370095-ke337o8ch","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Evaluación del proyecto</strong><br />La evaluación de este proyecto tendrá en cuenta tanto el proceso de aprendizaje como el producto final elaborado por el alumnado.</p>\n<p> <br /><strong>¿Qué se evaluará?</strong><br />-La comprensión del funcionamiento del aparato respiratorio<br />-La relación entre contaminación y salud<br />-La calidad del diseño del vecindario saludable<br />-El uso de herramientas digitales<br />-El trabajo en equipo<br />-La presentación final del proyecto<br /> <br /><strong>Instrumentos de evaluación</strong><br />Para evaluar el aprendizaje se utilizarán diferentes instrumentos como:</p>\n<ul>\n<li>Rúbricas</li>\n<li>Listas de cotejo</li>\n<li>Observación directa</li>\n<li>Dianas de evaluación</li>\n</ul>\n<p>Puedes consultar todos los instrumentos aquí:</p>\n<p><a href=\"https://docs.google.com/document/d/1tKBC_Z8bL2WQFj6WnNnFgLV8Tj1-JkS_S6gSw6xwXjc/edit?usp=sharing\" title=\"\">https://docs.google.com/document/d/1tKBC_Z8bL2WQFj6WnNnFgLV8Tj1-JkS_S6gSw6xwXjc/edit?usp=sharing</a></p>\n<p><a href=\"https://docs.google.com/document/d/1a8OXwM9Q9rOJIxAd_KyhqpABffagRVKfhDf42hyS-pw/edit?usp=drive_link\" title=\"\">https://docs.google.com/document/d/1a8OXwM9Q9rOJIxAd_KyhqpABffagRVKfhDf42hyS-pw/edit?usp=drive_link</a></p>\n<p><strong>Evaluación formativa</strong><br />A lo largo del proyecto se proporcionará retroalimentación continua para ayudar al alumnado a mejorar su aprendizaje.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mookef40-d32cgnshm</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>GUÍA DIDÁCTICA</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mookef40-d32cgnshm</odePageId>
+      <odeBlockId>block-1777721236603-yapc06m1s</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mookef40-d32cgnshm</odePageId>
+          <odeBlockId>block-1777721236603-yapc06m1s</odeBlockId>
+          <odeIdeviceId>idevice-1777721236600-j6ivljhc9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>📘 <strong>Guía didáctica</strong><br />Este apartado está dirigido al profesorado y tiene como objetivo facilitar la implementación del proyecto en el aula.</p>
+<p> <br /><strong>Relación entre actividades y criterios de evaluación</strong><br />En el siguiente documento se recoge la relación entre las actividades del proyecto, los criterios de evaluación y otros elementos curriculares:</p>
+<p><a href="https://docs.google.com/document/d/1kx7MbbkTV_Nzj0h2dG3m8LI13IHm14qt9p9KrC9mI8Q/edit?usp=sharing" title="">https://docs.google.com/document/d/1kx7MbbkTV_Nzj0h2dG3m8LI13IHm14qt9p9KrC9mI8Q/edit?usp=sharing</a></p>
+<p><strong>Orientaciones metodológicas</strong><br />El proyecto se basa en metodologías activas que fomentan la participación del alumnado, el aprendizaje significativo y el desarrollo de la competencia digital.</p>
+<p><strong>Se recomienda:</strong></p>
+<p>Fomentar el trabajo cooperativo<br />Guiar el uso de herramientas digitales<br />Proporcionar apoyo en las fases iniciales<br />Adaptar el ritmo según las necesidades del grupo<br /> <br />🌈 <strong>Atención a la diversidad</strong><br />Se tendrán en cuenta las diferentes capacidades, ritmos de aprendizaje y niveles de competencia digital del alumnado, ofreciendo apoyo y adaptaciones cuando sea necesario.</p>
+<p> <br />🧩<strong> Principios DUA (Diseño Universal para el Aprendizaje)</strong><br />En el diseño del proyecto se han aplicado los principios del DUA:</p>
+<p>Múltiples formas de representación: uso de recursos visuales, digitales y explicaciones diversas<br />Múltiples formas de acción y expresión: diferentes formatos para el producto final<br />Múltiples formas de implicación: actividades variadas y motivadoras<br /> <br />💡<strong> Recomendaciones</strong><br />Asegurar que el alumnado comprende el uso de las herramientas digitales<br />Supervisar el trabajo en grupo<br />Resolver dudas técnicas durante el proceso<br />Favorecer un clima de participación activa</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777721236600-j6ivljhc9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>📘 <strong>Guía didáctica</strong><br />Este apartado está dirigido al profesorado y tiene como objetivo facilitar la implementación del proyecto en el aula.</p>\n<p> <br /><strong>Relación entre actividades y criterios de evaluación</strong><br />En el siguiente documento se recoge la relación entre las actividades del proyecto, los criterios de evaluación y otros elementos curriculares:</p>\n<p><a href=\"https://docs.google.com/document/d/1kx7MbbkTV_Nzj0h2dG3m8LI13IHm14qt9p9KrC9mI8Q/edit?usp=sharing\" title=\"\">https://docs.google.com/document/d/1kx7MbbkTV_Nzj0h2dG3m8LI13IHm14qt9p9KrC9mI8Q/edit?usp=sharing</a></p>\n<p><strong>Orientaciones metodológicas</strong><br />El proyecto se basa en metodologías activas que fomentan la participación del alumnado, el aprendizaje significativo y el desarrollo de la competencia digital.</p>\n<p><strong>Se recomienda:</strong></p>\n<p>Fomentar el trabajo cooperativo<br />Guiar el uso de herramientas digitales<br />Proporcionar apoyo en las fases iniciales<br />Adaptar el ritmo según las necesidades del grupo<br /> <br />🌈 <strong>Atención a la diversidad</strong><br />Se tendrán en cuenta las diferentes capacidades, ritmos de aprendizaje y niveles de competencia digital del alumnado, ofreciendo apoyo y adaptaciones cuando sea necesario.</p>\n<p> <br />🧩<strong> Principios DUA (Diseño Universal para el Aprendizaje)</strong><br />En el diseño del proyecto se han aplicado los principios del DUA:</p>\n<p>Múltiples formas de representación: uso de recursos visuales, digitales y explicaciones diversas<br />Múltiples formas de acción y expresión: diferentes formatos para el producto final<br />Múltiples formas de implicación: actividades variadas y motivadoras<br /> <br />💡<strong> Recomendaciones</strong><br />Asegurar que el alumnado comprende el uso de las herramientas digitales<br />Supervisar el trabajo en grupo<br />Resolver dudas técnicas durante el proceso<br />Favorecer un clima de participación activa</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mookef42-4kmydw3nk</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>CRÉDITOS</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CRÉDITOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CRÉDITOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mookef42-4kmydw3nk</odePageId>
+      <odeBlockId>block-1777721325411-498aq7a5o</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mookef42-4kmydw3nk</odePageId>
+          <odeBlockId>block-1777721325411-498aq7a5o</odeBlockId>
+          <odeIdeviceId>idevice-1777721325402-bump9ykxu</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Créditos</strong><br />Autoría: Gloria Cañete Alcántara<br />Título del recurso: Aire nuevo, vida nueva<br />Herramienta de creación: eXeLearning 3<br />Licencia: Creative Commons CC BY-NC-SA</p>
+<p style="text-align: justify;">Este recurso ha sido creado con fines educativos y puede ser utilizado y adaptado citando la autoría original y sin fines comerciales.</p>
+<p> <br /><strong>Recursos utilizados</strong><br />Imágenes y recursos digitales de uso libre o con licencia Creative Commons<br />Materiales propios elaborados para el proyecto<br /> <br /><strong>Autoría de imágenes</strong><br />Imagen/es obtenidas de internet: fuente indicada junto a cada imagen<br />Imagen/es generadas mediante inteligencia artificial (ChatGPT)<br /> <br /><strong>Descarga del recurso</strong><br />Puedes descargar el archivo editable del proyecto para su reutilización y adaptación.</p>
+<p> <br /> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777721325402-bump9ykxu","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Créditos</strong><br />Autoría: Gloria Cañete Alcántara<br />Título del recurso: Aire nuevo, vida nueva<br />Herramienta de creación: eXeLearning 3<br />Licencia: Creative Commons CC BY-NC-SA</p>\n<p style=\"text-align: justify;\">Este recurso ha sido creado con fines educativos y puede ser utilizado y adaptado citando la autoría original y sin fines comerciales.</p>\n<p> <br /><strong>Recursos utilizados</strong><br />Imágenes y recursos digitales de uso libre o con licencia Creative Commons<br />Materiales propios elaborados para el proyecto<br /> <br /><strong>Autoría de imágenes</strong><br />Imagen/es obtenidas de internet: fuente indicada junto a cada imagen<br />Imagen/es generadas mediante inteligencia artificial (ChatGPT)<br /> <br /><strong>Descarga del recurso</strong><br />Puedes descargar el archivo editable del proyecto para su reutilización y adaptación.</p>\n<p> <br /> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
